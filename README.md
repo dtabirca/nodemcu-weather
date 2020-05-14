@@ -1,5 +1,6 @@
 ## Wireless Outdoor Weather Station + PM10 PM2.5 Air Quality Monitor
 Reads sensors and sends data to ThingsSpeak every 5 minutes.
+https://thingspeak.com/channels/1057745
 
 ### Hardware:
 - NodeMCU v3 (esp8266 12e)
