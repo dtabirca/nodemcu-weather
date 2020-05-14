@@ -9,14 +9,14 @@ https://thingspeak.com/channels/1057745
 - DHT21/AM2301 Temperature and humidity module
 
 ### Wire Connections:
-NodeMCU     Sensors 
-3.3V        VCC(BMP180, DHT21)
-GND         GND(BMP180, DHT21)
-D1          SCL(BMP180)          
-D2          SDA(BMP180)
-D3          DHT DATA
-D5          PPD42 P2(pin 2)
-D6          PPD42 P1(pin 4)    
+NodeMCU -> Sensors  
+3.3V ----> VCC(BMP180, DHT21)  
+GND -----> GND(BMP180, DHT21)  
+D1 ------> SCL(BMP180)  
+D2 ------> SDA(BMP180)  
+D3 ------> DHT DATA  
+D5 ------> PPD42 P2(pin 2)  
+D6 ------> PPD42 P1(pin 4)    
 
 ### More about the PPD42 sensor:
 - https://files.seeedstudio.com/wiki/Grove_Dust_Sensor/resource/Grove_-_Dust_sensor.pdf
