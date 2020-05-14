@@ -32,4 +32,5 @@ If compared with data from other sources, there is a larger difference between P
 - most of the dust particles at the place of measurement are in the 10um channel
 - the minimum detected particle for PPD42 is 1um
 - for the same number of particles, the mass in PM10 channel is about 200 times higher than in 2.5 channel
+
 Daily and monthly average calculations may be more precise.
