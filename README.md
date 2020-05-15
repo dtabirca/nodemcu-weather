@@ -28,10 +28,12 @@ For now, it calculates the average based on the last three readings (data from t
 since it is powered during short intervals and not all readings are valid.
 
 ### Conclusions:
-It detects successfully household dust, cigarette smoke, pollen, gypsum plaster powder, etc.
+It detects successfully household dust, cigarette smoke, pollen, exhaust fumes, construction plaster powder, etc.
 If compared with data from other sources, there is a larger difference between PM10 and PM25, probably because:
-- most of the dust particles at the place of measurement are in the 10um channel
-- the minimum detected particle for PPD42 is 1um
+- most of the dust particles at the place of measurement are in the 10um channel; right now there's a great deal of pollen 
+- this sensor is placed right above the bus station and at the corner of the block where there's a smoking place
+- those other sensors are not really exposed in the open air
 - for the same number of particles, the mass in PM10 channel is about 200 times higher than in 2.5 channel
+- the minimum this sensor detects is 1um
 
 Daily and monthly average calculations may be more precise.
