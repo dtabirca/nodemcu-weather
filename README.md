@@ -36,4 +36,4 @@ If compared with data from other sources, there is a larger difference between P
 - for the same number of particles, the mass in PM10 channel is about 200 times higher than in 2.5 channel
 - the minimum this sensor detects is 1um
 
-Daily and monthly average calculations may be more precise.
+Daily and monthly average calculations may be more relevant.
